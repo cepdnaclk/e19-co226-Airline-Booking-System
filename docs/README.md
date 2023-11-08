@@ -42,9 +42,10 @@ For detailed installation and usage instructions, please refer to our [Documenta
 If you have any questions or need further information, feel free to contact us:
 
 ## Team
-- [Dissanayaka M.A.S.R](mailto:e19087@eng.pdn.ac.lk)
-- [Nerangi W.K.G.A.G](mailto:e19260@eng.pdn.ac.lk)
-- [Gunasekara M.H](mailto:e19124@eng.pdn.ac.lk)
+- E/19/087 Dissanayaka M.A.S.R [email](mailto:e19087@eng.pdn.ac.lk)
+- E/19/260 Nerangi W.K.G.A.G [email](mailto:e19260@eng.pdn.ac.lk)
+- E/19/124 Gunasekara M.H [email](mailto:e19124@eng.pdn.ac.lk)
+
 
 ## Links
 - [GitHub Repository](https://github.com/cepdnaclk/e19-co226-Airline-Booking-System)
