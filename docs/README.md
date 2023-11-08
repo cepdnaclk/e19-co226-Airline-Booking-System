@@ -44,13 +44,7 @@ For detailed installation and usage instructions, please refer to our [Documenta
 ## Contact
 If you have any questions or need further information, feel free to contact us:
 
-- [Your Name](mailto:your.email@example.com)
-- [Dissanayaka M.A.S.R](mailto:e19087@eng.pdn.ac.lk)
-- [Nerangi W.K.G.A.G](mailto:e19260@eng.pdn.ac.lk)
-- [Gunasekara M.H](mailto:e19124@eng.pdn.ac.lk)
-
 ## Team
-- [Your Name](mailto:your.email@example.com)
 - [Dissanayaka M.A.S.R](mailto:e19087@eng.pdn.ac.lk)
 - [Nerangi W.K.G.A.G](mailto:e19260@eng.pdn.ac.lk)
 - [Gunasekara M.H](mailto:e19124@eng.pdn.ac.lk)
