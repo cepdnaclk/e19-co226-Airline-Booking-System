@@ -45,14 +45,18 @@ For detailed installation and usage instructions, please refer to our [Documenta
 If you have any questions or need further information, feel free to contact us:
 
 - [Your Name](mailto:your.email@example.com)
-- [Another Team Member](mailto:another.email@example.com)
+- [Dissanayaka M.A.S.R](mailto:e19087@eng.pdn.ac.lk)
+- [Nerangi W.K.G.A.G](mailto:e19260@eng.pdn.ac.lk)
+- [Gunasekara M.H](mailto:e19124@eng.pdn.ac.lk)
 
 ## Team
 - [Your Name](mailto:your.email@example.com)
-- [Another Team Member](mailto:another.email@example.com)
+- [Dissanayaka M.A.S.R](mailto:e19087@eng.pdn.ac.lk)
+- [Nerangi W.K.G.A.G](mailto:e19260@eng.pdn.ac.lk)
+- [Gunasekara M.H](mailto:e19124@eng.pdn.ac.lk)
 
 ## Links
-- [GitHub Repository](https://github.com/yourusername/airline-booking-system)
-- [Project Website](https://example.com)
-- [Your Department](http://www.yourdepartment.com)
-- [Your University](http://www.youruniversity.com)
+- [GitHub Repository](https://github.com/cepdnaclk/e19-co226-Airline-Booking-System)
+- [Project Website](https://cepdnaclk.github.io/e19-co226-Airline-Booking-System/)
+- [Your Department](http://www.ce.pdn.ac.lk)
+- [Your University](https://eng.pdn.ac.lk)
