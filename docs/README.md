@@ -17,9 +17,6 @@ Welcome to the **Airline Booking System** project! Our system is designed to pro
 ## Objective
 The objective of the Airline Booking System is to create a seamless and convenient booking experience for passengers while enabling airlines to manage their flights efficiently. We aim to deliver a platform that simplifies ticket reservation, flight management, and enhances the overall travel experience.
 
-## High-level System Architecture
-![System Architecture](./architecture.png)
-
 Our system is built using a combination of technologies, including React for the frontend, Spring Boot for the backend, and MySQL for the database. The architecture includes components for user management, flight scheduling, ticket booking, and payment processing.
 
 ## Technologies Used
