@@ -1,0 +1,102 @@
+/* Booking.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 400px;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    padding: 30px 50px;
+    background-color: #334f68;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+  }
+  
+  .label {
+    margin-bottom: 5px;
+    font-size: medium;
+  }
+  
+  .input {
+    padding: 8px;
+    margin-bottom: 3px;
+    width: 100%;
+    border: solid 1px gray;
+    border-radius: 4px;
+  }
+  
+  .button {
+    padding: 10px;
+    height: 45px;
+    background-color: #76b578;
+    color: black;
+    border-radius: 4px;
+  }
+  
+  .button:hover {
+    background-color: #0daf15;
+    color: yellow;
+  }
+  
+  /* Add a separate rule for the initial background color */
+  .button:not(:hover) {
+    background-color: #76b578;
+  }
+  
+  /* Styles for the flights container and table */
+  .flights-container {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Optional: Add some spacing between flights in the list */
+  li:not(:last-child) {
+    margin-bottom: 10px;
+  }
+  
+  /* Additional styles for the booking button */
+  .booking-button {
+    padding: 8px 12px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .booking-button:hover {
+    background-color: #45a049;
+  }
+  

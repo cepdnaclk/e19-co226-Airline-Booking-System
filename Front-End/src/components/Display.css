@@ -1,0 +1,71 @@
+.container {
+    margin: 10px;
+    padding-top: 100px;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 10px solid #ddd; /* Add border */
+    margin-bottom: 40px; /* Add space between tables */
+  }
+  
+  .th,
+  .td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+ .h2{ 
+    padding-top: 10px;
+    background-color: #106c10;
+    font-weight: bold;
+    font-size: 16px; /* Change font size */
+    width: 100%;
+    text-align: center; 
+    height: 40px;
+}
+  
+  .tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .tr:hover {
+    background-color: #ddd;
+  }
+  
+  .button-container {
+    display: flex;
+  }
+  
+  .button-container button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 8px;
+    
+  }
+  
+  .button-container button:hover {
+    background-color: #45a049;
+  }
+  
+  .button-container1 {
+    display: flex;
+    justify-content: center; /* Center the buttons */
+    
+  }
+  
+  .button-container1 button {
+    padding: 8px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 10px; /* Adjust margin for space between buttons */
+  }
+  
