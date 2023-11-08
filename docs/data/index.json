@@ -17,6 +17,12 @@
             "eNumber": "E/19/124"
         }
     ],
-    "tags": ["co226-projects", "e19-co226-projects"]
+    "supervisors": [
+        {
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": ["DBMS", "MySQL", "E19"]
     
 }
